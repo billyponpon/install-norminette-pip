@@ -21,7 +21,7 @@ add your installed path inside it Ctr O and Ctr X <br>
 Done. <br>
 <br>
 <br>
-How to install norminette and pip inside Windows
+How to install linux, norminette and pip inside Windows <br>
 Install WSL  <br>
 https://docs.microsoft.com/en-us/windows/wsl/install  <br>
 <br>
@@ -32,6 +32,7 @@ https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode  <br>
  https://stackoverflow.com/questions/66496890/vs-code-nopermissions-filesystemerror-error-eacces-permission-denied <br>
  <br>
  https://code.visualstudio.com/docs/remote/wsl  <br>
+ Need to repeat the steps for Mac too (python & pip) to get norminette <br>
  <br>
  <br>
  Or just code online  <br>
